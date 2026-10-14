@@ -1,6 +1,6 @@
 # ===========================================================
 # PROYECTO: SIMULACION Y ANALISIS DE SEÑALES CON FOURIER
-# AUTOR: 
+# AUTOR: Eddipablo García
 # Descripción: generación y representación de señales básicas
 # ===========================================================
 
